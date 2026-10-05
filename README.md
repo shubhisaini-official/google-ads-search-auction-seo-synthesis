@@ -50,10 +50,3 @@ $$\text{Ad Rank} = \text{Maximum Bid (CPC)} \times \text{Quality Score}$$
 * **Constraint Searches ("Running shoes under ₹5,000"):** Requires exact filtered inventory matching budget constraints.
 
 ---
-
-## 🔗 Series Navigation & Master Interlinking
-
-* 📐 **Module 1:** [Visual AI Prompting & Mobile Wireframing (Uizard)](https://github.com/shubhisaini-official/at-food-co-uizard-visual-prompting)
-* 🎨 **Module 2:** [Framer Motion UX & Live Web Prototype](https://github.com/shubhisaini-official/at-food-co-framer-motion-ux)
-* 🗄️ **Module 3:** [Relational Database Architecture (Airtable)](https://github.com/shubhisaini-official/at-food-co-airtable-relational-schema)
-* 🖼️ **Module 4:** [Generative AI Visual Asset Pipelines (Ideogram + Leonardo)](https://github.com/shubhisaini-official/at-food-co-ai-asset-pipeline)
